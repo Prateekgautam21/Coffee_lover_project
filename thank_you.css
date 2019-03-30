@@ -1,0 +1,9 @@
+body{
+  background-color: #001f30;
+}
+.one{
+  color: white;
+  text-align: center;
+  border: 40px solid #75d6cf;
+  border-top: 0px;
+}

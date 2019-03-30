@@ -1,0 +1,39 @@
+body{
+  background-color: #75d6cf;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+.layer{
+  color: white;
+  background-color: #011627;
+  border:  1px solid #001f30;
+  margin: 0px 30px 30px 30px;
+}
+#bd{
+  color: white;
+  background-color: #011627;
+  border: 0px solid #011627;
+  margin: 0px 0px 0px 0px;
+}
+label{
+  font-size: 18px;
+}
+#para{
+  border:  1px solid #011627;
+  width: 50%;
+  margin: auto;
+}
+input{
+width: 23%;
+height: 29px;
+}
+#last{
+  color: #011627;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 20px 20px 20px 20px;
+  width: 10%;
+  height: 60px;
+  background-color: #f9ac27;
+}
